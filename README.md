@@ -1,28 +1,28 @@
 ---
-icon: hand-wave
-cover: .gitbook/assets/image (3) (1).png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
+значок: взмах рук
+обложка: .gitbook/assets/image (3) (1).png
+прикрытие: 0
+макет:
+  крышка:
+    видно: правда
+    размер: полный
+  заголовок:
+    видно: правда
+  описание:
+    видимый: ложь
+  оглавление:
+    видно: правда
+  Контур:
+    видно: правда
+  нумерация страниц:
+    видно: правда
 ---
 
 # что такое http (wip)
 
-#### hold the toad please!
+#### подержи жабу, пожалуйста!
 
-{% hint style="success" %}
+{% стиль подсказки = "успех"" %}
 **пожалуйста, держи жабу!**
 {% endhint %}
 
